@@ -1,0 +1,16 @@
+.rojo {
+    color: red;
+}
+
+.texto {
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.producto {
+    display: flex;
+    justify-content: space-between;
+    background-color: pink;
+    padding: .5rem;
+}
