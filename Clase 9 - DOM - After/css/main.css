@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#gastos-mensuales {
+    background-color: pink;
+    padding: 1rem;
+}
+.gasto {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-transform: uppercase;
+}
+
+.totales {
+    padding: 1rem;
+}
